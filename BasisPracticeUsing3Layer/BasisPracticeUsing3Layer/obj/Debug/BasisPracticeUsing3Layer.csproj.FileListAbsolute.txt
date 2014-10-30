@@ -1,0 +1,15 @@
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\bin\Debug\BasisPracticeUsing3Layer.exe.config
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\bin\Debug\BasisPracticeUsing3Layer.exe
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\bin\Debug\BasisPracticeUsing3Layer.pdb
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.csprojResolveAssemblyReference.cache
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.EnrollmentUI.resources
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.CourseUI.resources
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.MainUI.resources
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.Properties.Resources.resources
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.StudentUI.resources
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.csproj.GenerateResource.Cache
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.exe
+c:\users\zahid\documents\visual studio 2012\Projects\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.pdb
+C:\Users\zahid\Desktop\New folder\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\bin\Debug\BasisPracticeUsing3Layer.exe.config
+C:\Users\zahid\Desktop\New folder\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.exe
+C:\Users\zahid\Desktop\New folder\BasisPracticeUsing3Layer\BasisPracticeUsing3Layer\obj\Debug\BasisPracticeUsing3Layer.pdb
